@@ -1,1 +1,1 @@
-Don`t worry. It is a test project
+Don`t worry, be happy. It is a test project
